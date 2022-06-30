@@ -1,0 +1,26 @@
+https://github.com/github/gitignore
+
+This is a collection of gitignore templates. 
+I feel like I will certainly come look at these again in the near future.
+
+https://github.com/github/opensource.guide
+
+A community guide for open source creators.
+I think this will come in handy especically since I am new to github.
+
+https://github.com/leereilly/games
+
+A bunch of open source games.
+I can check this out for ideas and for fun.
+
+https://github.com/coding-horror/basic-computer-games
+
+An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common memory safe scripting programming languages. 
+being able to make games while efficently using memory seems like an ability I will need as a game developer. 
+
+https://github.com/CharlesPikachu/Games
+
+Games made purely in python.
+This is just something else that is fun and it opens my mind up to python by allowing me to see what is possible.
+
+
